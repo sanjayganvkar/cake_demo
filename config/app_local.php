@@ -37,13 +37,14 @@ return [
      *
      * See app.php for more configuration options.
      */
+
     'Datasources' => [
         'default' => [
             'host' => 'sql110.infinityfree.com',
             //'port' => 'non_standard_port_number',
-            'username' => 'if0_40424277', 
-            'password' => 'Pass20004321',
-            'database' => 'if0_40424277_XXX',
+            'username' => 'if0_40426492', 
+            'password' => 'ksLMBZklXM',
+            'database' => 'if0_40426492_cakedemo',
             /*
              * If not using the default 'public' schema with the PostgreSQL driver
              * set it here.
